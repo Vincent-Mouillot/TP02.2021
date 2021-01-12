@@ -1,0 +1,55 @@
+$ git log
+commit 5ac00052422cd17fa7516a4b1e013696f57cc329 (HEAD -> travail)
+Author: Vincent Mouillot <vincent.mouillot@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 16:48:00 2021 +0100
+
+    Ajout git status au doc03
+
+commit b80306f8089008ab8f4557ade6eab9bbc4b65626
+Author: Vincent Mouillot <vincent.mouillot@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 16:46:57 2021 +0100
+
+    Creation doc03
+
+commit c962b9a96f40b6a8759d917fa9869dc0fc927d69
+Author: Vincent Mouillot <vincent.mouillot@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 16:46:28 2021 +0100
+
+    Creation doc02 et ajout phrase
+
+commit a76050ea5775c8a4c637308c9b4f3eed3e8e56e8
+Author: Vincent Mouillot <vincent.mouillot@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 16:43:33 2021 +0100
+
+    Ajout bonjour et signature doc01
+:...skipping...
+commit 5ac00052422cd17fa7516a4b1e013696f57cc329 (HEAD -> travail)
+Author: Vincent Mouillot <vincent.mouillot@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 16:48:00 2021 +0100
+
+    Ajout git status au doc03
+
+commit b80306f8089008ab8f4557ade6eab9bbc4b65626
+Author: Vincent Mouillot <vincent.mouillot@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 16:46:57 2021 +0100
+
+    Creation doc03
+
+commit c962b9a96f40b6a8759d917fa9869dc0fc927d69
+Author: Vincent Mouillot <vincent.mouillot@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 16:46:28 2021 +0100
+
+    Creation doc02 et ajout phrase
+
+commit a76050ea5775c8a4c637308c9b4f3eed3e8e56e8
+Author: Vincent Mouillot <vincent.mouillot@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 16:43:33 2021 +0100
+
+    Ajout bonjour et signature doc01
+
+commit 493624c694e76835de3f3f4c60f1d61e87430d7d (origin/main, origin/HEAD, main)
+Author: Gérald GENIAUT <48517126+GeraldGeniaut@users.noreply.github.com>
+Date:   Mon Jan 11 17:14:17 2021 +0100
+
+    Add files via upload
+
