@@ -1,0 +1,74 @@
+commit 9f8bef20e6f5decf7451e54c0b6ffe7b4033ad8e (HEAD -> main, origin/main)
+Author: Vincent-Mouillot <77016480+Vincent-Mouillot@users.noreply.github.com>
+Date:   Tue Jan 12 17:07:13 2021 +0100
+
+    Create doc08.txt
+commit 9f8bef20e6f5decf7451e54c0b6ffe7b4033ad8e (HEAD -> main, origin/main)
+Author: Vincent-Mouillot <77016480+Vincent-Mouillot@users.noreply.github.com>
+Date:   Tue Jan 12 17:07:13 2021 +0100
+
+    Create doc08.txt
+
+    Ajout depuis github d'une phrase
+
+commit 79e7ea49c110f01510a526235f1c08cca7bebe0e
+Author: Vincent Mouillot <vincent.mouillot@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 17:00:11 2021 +0100
+
+    Ajout doc07
+
+commit e3b922fb9cd37841382be62baafca5103e2cf44a
+Merge: 786d3a4 eca22cc
+Author: Vincent Mouillot <vincent.mouillot@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 16:53:55 2021 +0100
+
+    Merge branch 'travail'
+
+commit 786d3a4a487bf6cd29a2d8d2e92160b3b99a9b20
+Author: Vincent Mouillot <vincent.mouillot@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 16:53:09 2021 +0100
+
+    ajout doc05 et doc06
+
+commit 7a87c1145640b15603942c1b6bd8537e0ae50a8d
+Author: Vincent Mouillot <vincent.mouillot@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 16:50:35 2021 +0100
+
+    Creation doc05
+
+commit eca22ccc4ffb0021aa10af8808aa7cba4934bdc8 (travail)
+Author: Vincent Mouillot <vincent.mouillot@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 16:49:32 2021 +0100
+
+    Ajout git log au doc04
+
+commit 5ac00052422cd17fa7516a4b1e013696f57cc329
+Author: Vincent Mouillot <vincent.mouillot@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 16:48:00 2021 +0100
+
+    Ajout git status au doc03
+
+commit b80306f8089008ab8f4557ade6eab9bbc4b65626
+Author: Vincent Mouillot <vincent.mouillot@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 16:46:57 2021 +0100
+
+    Creation doc03
+
+commit c962b9a96f40b6a8759d917fa9869dc0fc927d69
+Author: Vincent Mouillot <vincent.mouillot@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 16:46:28 2021 +0100
+
+    Creation doc02 et ajout phrase
+
+commit a76050ea5775c8a4c637308c9b4f3eed3e8e56e8
+Author: Vincent Mouillot <vincent.mouillot@edu.univ-fcomte.fr>
+Date:   Tue Jan 12 16:43:33 2021 +0100
+
+    Ajout bonjour et signature doc01
+
+commit 493624c694e76835de3f3f4c60f1d61e87430d7d
+Author: Gérald GENIAUT <48517126+GeraldGeniaut@users.noreply.github.com>
+Date:   Mon Jan 11 17:14:17 2021 +0100
+
+    Add files via upload
+
